@@ -1,0 +1,142 @@
+@use '../../styles' as ds;
+
+.home-page {
+    width: 100%;
+
+    .inner {
+        width: calc(100% - 40px);
+        max-width: ds.$inner-width;
+        margin: 0 auto;
+    }
+
+    // 메인 비주얼
+    .home-visual {
+        position: relative;
+        width: 100%;
+        height: 820px;
+        background-color: ds.$color-image-footer;
+
+        .inner {
+            height: 100%;
+            position: relative;
+        }
+
+        .visual-content {
+            position: absolute;
+            top: 327px;
+            left: 50px;
+
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 32px;
+
+            h1 {
+                font-size: 32px;
+                font-weight: 400;
+                line-height: 28.8px;
+                color: ds.$color-action;
+            }
+        }
+    }
+
+    // 메인 콘텐츠 공통 영역
+    .home-content {
+        padding-top: 63px;
+        padding-bottom: 135px;
+    }
+
+    // 카테고리 영역
+    .home-category {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-bottom: 92px;
+
+        .category-list {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 24px;
+        }
+
+        .category-card {
+            position: relative;
+            display: block;
+
+            color: ds.$color-action;
+            text-decoration: none;
+
+            .category-image {
+                width: 100%;
+                aspect-ratio: 412 / 295;
+                background-color: ds.$color-image-footer;
+            }
+
+            .category-name {
+                position: absolute;
+                bottom: 17px;
+                left: 22px;
+
+                @include ds.text-style(detail-title);
+            }
+        }
+    }
+
+    // 신상품 및 인기 상품
+    .home-products {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+
+        .product-list {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 24px;
+        }
+
+        .hot-notice {
+            @include ds.text-style(caption);
+            color: ds.$color-muted;
+        }
+    }
+
+    .home-new {
+        margin-bottom: 73px;
+    }
+
+    .home-hot {
+        margin-bottom: 80px;
+    }
+
+    // 룩북 영역
+    .home-lookbook {
+        display: grid;
+        grid-template-columns: minmax(0, 1347fr) minmax(0, 315fr);
+        align-items: center;
+        gap: 58px;
+
+        .lookbook-image {
+            width: 100%;
+            aspect-ratio: 1347 / 470;
+            background-color: ds.$color-image-footer;
+        }
+
+        .lookbook-content {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 34px;
+
+            .lookbook-text {
+                display: flex;
+                flex-direction: column;
+                gap: 12px;
+
+                p {
+                    @include ds.text-style(body);
+                    color: ds.$color-text;
+                }
+            }
+        }
+    }
+}

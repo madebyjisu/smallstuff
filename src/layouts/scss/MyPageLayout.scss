@@ -1,0 +1,16 @@
+@use '../../styles' as ds;
+
+.mypage-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: ds.$account-gap;
+
+    min-height: 748px;
+    padding-top: 80px;
+    padding-bottom: 24px;
+
+    .mypage-content {
+        flex: 1;
+        min-width: 0;
+    }
+}

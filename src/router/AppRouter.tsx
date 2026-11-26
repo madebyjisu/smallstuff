@@ -8,6 +8,7 @@ import NotFoundPage from '../pages/system/NotFoundPage'
 import PageTitle from '../pages/system/PageTitle'
 import ProtectedRoute from './ProtectedRoute'
 import { paths } from './paths'
+import { HomePage } from '../pages/home/HomePage';
 
 const CategoryPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.CategoryPage })))
 const ProductPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.ProductPage })))
@@ -17,7 +18,7 @@ export default function AppRouter() {
     <BrowserRouter>
       <Routes>
         <Route element={<RootLayout />}>
-          <Route index element={<PageTitle title="Home" />} />
+          <Route index element={<HomePage />} />
           <Route path={paths.about} element={<PageTitle title="About us" />} />
           <Route path={paths.shop} element={<PageTitle title="Shop" />} />
           <Route path={paths.category} element={<Suspense fallback={<p role="status">Loading category...</p>}><CategoryPage /></Suspense>} />

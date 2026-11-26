@@ -20,6 +20,8 @@ body {
   background-color: tokens.$color-action;
   border-color: tokens.$color-action;
   color: tokens.$color-surface;
+  padding: 0 12px;
+  cursor: pointer;
 }
 
 .button--compact {
@@ -36,6 +38,7 @@ body {
   background-color: tokens.$color-disabled-surface;
   border-color: tokens.$color-field-border;
   color: tokens.$color-original-price;
+  cursor: not-allowed;
 }
 
 .field {
@@ -44,6 +47,17 @@ body {
 
   background-color: tokens.$color-surface;
   color: tokens.$color-action;
+  padding-inline: tokens.$checkout-field-padding;
+
+  &::placeholder {
+    color: tokens.$color-original-price;
+  }
+
+  &:disabled {
+    background-color: tokens.$color-disabled-surface;
+    color: tokens.$color-original-price;
+    cursor: not-allowed;
+  }
 }
 
 .field--checkout {
@@ -57,4 +71,146 @@ body {
 .field--reason {
   inline-size: 100%;
   padding-inline: tokens.$reason-dropdown-padding;
+}
+
+// 공통 드롭다운
+.select-field {
+  height: tokens.$control-height;
+  cursor: pointer;
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+
+// 공통 체크박스
+.checkbox-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  @include mixins.text-style(body);
+
+  cursor: pointer;
+
+  .checkbox {
+    width: tokens.$checkbox-size;
+    height: tokens.$checkbox-size;
+    margin: 0;
+    flex-shrink: 0;
+    accent-color: tokens.$color-action;
+    cursor: pointer;
+
+    &:disabled {
+      cursor: not-allowed;
+    }
+  }
+
+  &:has(.checkbox:disabled) {
+    cursor: not-allowed;
+    color: tokens.$color-original-price;
+  }
+}
+
+// 공통 라디오 버튼
+.radio-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  @include mixins.text-style(body);
+
+  cursor: pointer;
+
+  .radio {
+    appearance: none;
+    width: tokens.$radio-size;
+    height: tokens.$radio-size;
+    border: 1px solid tokens.$color-field-border;
+    border-radius: 50%;
+    background-color: tokens.$color-surface;
+    margin: 0;
+    flex-shrink: 0;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    // 선택 표시
+    &::after {
+      content: '';
+      width: tokens.$radio-indicator-size;
+      height: tokens.$radio-indicator-size;
+      background-color: tokens.$color-action;
+      border-radius: 50%;
+      display: none;
+    }
+
+    // 선택된 상태
+    &:checked::after {
+      display: block;
+    }
+
+    // 비활성화 상태
+    &:disabled {
+      background-color: tokens.$color-disabled-surface;
+      cursor: not-allowed;
+    }
+
+    &:disabled::after {
+      background-color: tokens.$color-original-price;
+    }
+  }
+
+  &:has(.radio:disabled) {
+    cursor: not-allowed;
+    color: tokens.$color-original-price;
+  }
+}
+
+// 공통 섹션 제목
+.section-title {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+
+  h2 {
+    @include mixins.text-style(category);
+    color: tokens.$color-action;
+    margin: 0;
+  }
+
+  p {
+    @include mixins.text-style(detail-title);
+    color: tokens.$color-muted;
+    margin: 0;
+  }
+
+  // 정렬
+  &--left {
+    text-align: left;
+  }
+
+  &--center {
+    text-align: center;
+  }
+
+  &--right {
+    text-align: right;
+  }
+
+  // 작은 제목
+  &--small {
+    h2 {
+      @include mixins.text-style(detail-title);
+    }
+  }
+
+  // 큰 제목
+  &--large {
+    h2 {
+      @include mixins.text-style(payment-title);
+    }
+  }
 }

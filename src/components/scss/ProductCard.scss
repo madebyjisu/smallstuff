@@ -1,0 +1,102 @@
+@use '../../styles' as ds;
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    width: 100%;
+    min-width: 0;
+
+    color: ds.$color-action;
+    text-decoration: none;
+    cursor: pointer;
+
+    // 상품 이미지
+    .product-image {
+        position: relative;
+        width: 100%;
+        aspect-ratio: 412 / 350;
+        background-color: ds.$color-image-footer;
+        overflow: hidden;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .image-placeholder {
+            @include ds.text-style(info);
+            color: ds.$color-muted;
+        }
+
+        .sold-out {
+            position: absolute;
+            top: 12px;
+            left: 12px;
+
+            padding: 4px 8px;
+            background-color: ds.$color-action;
+            color: ds.$color-surface;
+
+            @include ds.text-style(caption);
+        }
+    }
+
+    // 상품 정보
+    .product-info {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+
+        padding: 0 8px;
+
+        .product-name {
+            @include ds.text-style(product-name);
+            color: ds.$color-action;
+        }
+
+        .original-price {
+            @include ds.text-style(original-price);
+            color: ds.$color-original-price;
+            text-decoration: line-through;
+        }
+
+        .product-price {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+
+            .discount {
+                @include ds.text-style(body-semibold);
+                color: ds.$color-sale;
+            }
+
+            .price {
+                @include ds.text-style(price);
+                color: ds.$color-price;
+            }
+        }
+
+        .recommended-size {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 메인 페이지 상품 카드
+    &--home {
+        .product-info {
+            .product-name {
+                @include ds.text-style(detail-title);
+            }
+        }
+    }
+}

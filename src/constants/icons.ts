@@ -1,0 +1,20 @@
+// 공통 아이콘 및 로고 경로 관리
+export const ICONS = {
+    cart: '/images/icons/cart.svg',
+    chevronDown: '/images/icons/chevron-down.svg',
+    chevronLeft: '/images/icons/chevron-left.svg',
+    chevronRight: '/images/icons/chevron-right.svg',
+    close: '/images/icons/close.svg',
+    closeCircle: '/images/icons/close-circle.svg',
+    delete: '/images/icons/delete.svg',
+    edit: '/images/icons/edit.svg',
+    heart: '/images/icons/heart.svg',
+    heartFilled: '/images/icons/heart-filled.svg',
+    logo: '/images/icons/logo.svg',
+    menu: '/images/icons/menu.svg',
+    minus: '/images/icons/minus.svg',
+    naverPay: '/images/icons/naver-pay.svg',
+    plus: '/images/icons/plus.svg',
+    search: '/images/icons/search.svg',
+    user: '/images/icons/user.svg',
+};
