@@ -1,0 +1,60 @@
+@use 'variables' as tokens;
+@use 'mixins';
+
+body {
+  color: tokens.$color-text;
+  background-color: tokens.$color-surface;
+}
+
+.inner {
+  @include mixins.inner;
+}
+
+.inner--account {
+  @include mixins.inner(tokens.$account-inner-width);
+}
+
+.button {
+  @include mixins.centered-button;
+
+  background-color: tokens.$color-action;
+  border-color: tokens.$color-action;
+  color: tokens.$color-surface;
+}
+
+.button--compact {
+  min-block-size: tokens.$compact-button-height;
+}
+
+.button--outline {
+  background-color: tokens.$color-surface;
+  border-color: tokens.$color-field-border;
+  color: tokens.$color-action;
+}
+
+.button:disabled {
+  background-color: tokens.$color-disabled-surface;
+  border-color: tokens.$color-field-border;
+  color: tokens.$color-original-price;
+}
+
+.field {
+  @include mixins.control;
+  @include mixins.text-style(info);
+
+  background-color: tokens.$color-surface;
+  color: tokens.$color-action;
+}
+
+.field--checkout {
+  padding-inline: tokens.$checkout-field-padding;
+}
+
+.field--measurement {
+  padding-inline: tokens.$measurement-field-padding;
+}
+
+.field--reason {
+  inline-size: 100%;
+  padding-inline: tokens.$reason-dropdown-padding;
+}

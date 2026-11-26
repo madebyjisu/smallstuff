@@ -1,0 +1,38 @@
+@use 'sass:list';
+@use 'sass:map';
+@use 'variables' as tokens;
+
+@mixin text-style($name) {
+  $style: map.get(tokens.$text-styles, $name);
+  @if $style == null {
+    @error 'Unknown text style: #{$name}';
+  }
+
+  font-family: tokens.$font-family;
+  font-size: list.nth($style, 1);
+  line-height: list.nth($style, 2);
+  font-weight: list.nth($style, 3);
+  letter-spacing: 0;
+}
+
+@mixin inner($width: tokens.$inner-width) {
+  inline-size: 100%;
+  max-inline-size: $width;
+  margin-inline: auto;
+}
+
+@mixin control($height: tokens.$control-height) {
+  min-block-size: $height;
+  border: tokens.$field-border-width solid tokens.$color-field-border;
+  border-radius: tokens.$control-radius;
+}
+
+@mixin centered-button($height: tokens.$control-height) {
+  @include control($height);
+  @include text-style(body);
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

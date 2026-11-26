@@ -1,0 +1,308 @@
+[
+  {
+    "id": "home",
+    "name": "Home",
+    "parentId": null,
+    "kind": "category",
+    "url": "https://smallstuff.kr/Furniture",
+    "pageUrls": [
+      "https://smallstuff.kr/Furniture",
+      "https://smallstuff.kr/Furniture/?&page=2"
+    ],
+    "sourceCount": 70,
+    "productCount": 48
+  },
+  {
+    "id": "step",
+    "name": "Step",
+    "parentId": "home",
+    "kind": "category",
+    "url": "https://smallstuff.kr/19",
+    "pageUrls": [
+      "https://smallstuff.kr/19"
+    ],
+    "sourceCount": 33,
+    "productCount": 11
+  },
+  {
+    "id": "bedding",
+    "name": "Bedding",
+    "parentId": "home",
+    "kind": "category",
+    "url": "https://smallstuff.kr/20",
+    "pageUrls": [
+      "https://smallstuff.kr/20"
+    ],
+    "sourceCount": 19,
+    "productCount": 19
+  },
+  {
+    "id": "dining",
+    "name": "Dining",
+    "parentId": "home",
+    "kind": "category",
+    "url": "https://smallstuff.kr/21",
+    "pageUrls": [
+      "https://smallstuff.kr/21"
+    ],
+    "sourceCount": 13,
+    "productCount": 13
+  },
+  {
+    "id": "home-others",
+    "name": "Others",
+    "parentId": "home",
+    "kind": "category",
+    "url": "https://smallstuff.kr/22",
+    "pageUrls": [
+      "https://smallstuff.kr/22"
+    ],
+    "sourceCount": 5,
+    "productCount": 5
+  },
+  {
+    "id": "bag",
+    "name": "Bag",
+    "parentId": null,
+    "kind": "category",
+    "url": "https://smallstuff.kr/Bag",
+    "pageUrls": [
+      "https://smallstuff.kr/Bag"
+    ],
+    "sourceCount": 24,
+    "productCount": 24
+  },
+  {
+    "id": "crossbody",
+    "name": "Crossbody Bags",
+    "parentId": "bag",
+    "kind": "category",
+    "url": "https://smallstuff.kr/81",
+    "pageUrls": [
+      "https://smallstuff.kr/81"
+    ],
+    "sourceCount": 6,
+    "productCount": 6
+  },
+  {
+    "id": "carrier",
+    "name": "Carrier Bags",
+    "parentId": "bag",
+    "kind": "category",
+    "url": "https://smallstuff.kr/82",
+    "pageUrls": [
+      "https://smallstuff.kr/82"
+    ],
+    "sourceCount": 18,
+    "productCount": 18
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "parentId": null,
+    "kind": "category",
+    "url": "https://smallstuff.kr/Clothing",
+    "pageUrls": [
+      "https://smallstuff.kr/Clothing"
+    ],
+    "sourceCount": 39,
+    "productCount": 25
+  },
+  {
+    "id": "top",
+    "name": "Top",
+    "parentId": "clothing",
+    "kind": "category",
+    "url": "https://smallstuff.kr/32",
+    "pageUrls": [
+      "https://smallstuff.kr/32"
+    ],
+    "sourceCount": 14,
+    "productCount": 7
+  },
+  {
+    "id": "all-in-one",
+    "name": "All in one",
+    "parentId": "clothing",
+    "kind": "category",
+    "url": "https://smallstuff.kr/547478604",
+    "pageUrls": [
+      "https://smallstuff.kr/547478604"
+    ],
+    "sourceCount": 9,
+    "productCount": 4
+  },
+  {
+    "id": "outer",
+    "name": "Outer",
+    "parentId": "clothing",
+    "kind": "category",
+    "url": "https://smallstuff.kr/288240893",
+    "pageUrls": [
+      "https://smallstuff.kr/288240893"
+    ],
+    "sourceCount": 11,
+    "productCount": 9
+  },
+  {
+    "id": "homewear",
+    "name": "Homewear",
+    "parentId": "clothing",
+    "kind": "category",
+    "url": "https://smallstuff.kr/35",
+    "pageUrls": [
+      "https://smallstuff.kr/35"
+    ],
+    "sourceCount": 5,
+    "productCount": 5
+  },
+  {
+    "id": "walk",
+    "name": "Walk",
+    "parentId": null,
+    "kind": "category",
+    "url": "https://smallstuff.kr/Walk",
+    "pageUrls": [
+      "https://smallstuff.kr/Walk"
+    ],
+    "sourceCount": 21,
+    "productCount": 21
+  },
+  {
+    "id": "walk-jacket",
+    "name": "Walk jacket",
+    "parentId": "walk",
+    "kind": "category",
+    "url": "https://smallstuff.kr/41",
+    "pageUrls": [
+      "https://smallstuff.kr/41"
+    ],
+    "sourceCount": 16,
+    "productCount": 16
+  },
+  {
+    "id": "walk-accessories",
+    "name": "Accessories for walks",
+    "parentId": "walk",
+    "kind": "category",
+    "url": "https://smallstuff.kr/43",
+    "pageUrls": [
+      "https://smallstuff.kr/43"
+    ],
+    "sourceCount": 5,
+    "productCount": 5
+  },
+  {
+    "id": "toy",
+    "name": "Toy",
+    "parentId": null,
+    "kind": "category",
+    "url": "https://smallstuff.kr/Toy",
+    "pageUrls": [
+      "https://smallstuff.kr/Toy"
+    ],
+    "sourceCount": 14,
+    "productCount": 14
+  },
+  {
+    "id": "new",
+    "name": "New in",
+    "parentId": null,
+    "kind": "collection",
+    "url": "https://smallstuff.kr/136",
+    "pageUrls": [
+      "https://smallstuff.kr/136",
+      "https://smallstuff.kr/136/?&page=2"
+    ],
+    "sourceCount": 49,
+    "productCount": 35
+  },
+  {
+    "id": "sale",
+    "name": "Black Friday",
+    "parentId": null,
+    "kind": "collection",
+    "url": "https://smallstuff.kr/sale",
+    "pageUrls": [
+      "https://smallstuff.kr/sale",
+      "https://smallstuff.kr/sale/?&page=2",
+      "https://smallstuff.kr/sale/?&page=3",
+      "https://smallstuff.kr/sale/?&page=4"
+    ],
+    "sourceCount": 151,
+    "productCount": 121
+  },
+  {
+    "id": "sale-60",
+    "name": "60%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/268",
+    "pageUrls": [
+      "https://smallstuff.kr/268"
+    ],
+    "sourceCount": 5,
+    "productCount": 5
+  },
+  {
+    "id": "sale-50",
+    "name": "50%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/271",
+    "pageUrls": [
+      "https://smallstuff.kr/271"
+    ],
+    "sourceCount": 12,
+    "productCount": 12
+  },
+  {
+    "id": "sale-40",
+    "name": "40%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/270",
+    "pageUrls": [
+      "https://smallstuff.kr/270"
+    ],
+    "sourceCount": 15,
+    "productCount": 15
+  },
+  {
+    "id": "sale-30",
+    "name": "30%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/1980706101",
+    "pageUrls": [
+      "https://smallstuff.kr/1980706101"
+    ],
+    "sourceCount": 39,
+    "productCount": 39
+  },
+  {
+    "id": "sale-20",
+    "name": "20%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/272",
+    "pageUrls": [
+      "https://smallstuff.kr/272",
+      "https://smallstuff.kr/272/?&page=2"
+    ],
+    "sourceCount": 61,
+    "productCount": 31
+  },
+  {
+    "id": "sale-10",
+    "name": "10%",
+    "parentId": "sale",
+    "kind": "collection",
+    "url": "https://smallstuff.kr/273",
+    "pageUrls": [
+      "https://smallstuff.kr/273"
+    ],
+    "sourceCount": 18,
+    "productCount": 18
+  }
+]

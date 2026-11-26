@@ -1,0 +1,70 @@
+$font-family: 'Pretendard', system-ui, sans-serif;
+
+$color-surface: #fff;
+$color-action: #000;
+$color-text: #222;
+$color-muted: #646464;
+$color-price: #4b4846;
+$color-original-price: #919191;
+$color-field-border: #ddd;
+$color-subtle-surface: #f9f9f9;
+$color-disabled-surface: #f3f3f3;
+$color-image-footer: #ebebeb;
+$color-sale: #fe5356;
+$color-notice: #00f;
+$color-error-accent: #ff4848;
+
+// Font size, line height, weight. These styles all use zero tracking.
+$text-styles: (
+  payment-title: (28px, 29px, 400),
+  category: (24px, 28.8px, 400),
+  category-semibold: (24px, 28.8px, 600),
+  detail-title: (18px, 27px, 400),
+  detail-title-semibold: (18px, 28.8px, 600),
+  info: (16px, 23px, 400),
+  info-semibold: (16px, 23px, 600),
+  body: (14px, 21px, 400),
+  body-semibold: (14px, 21px, 600),
+  product-name: (14px, 19.6px, 400),
+  price: (14px, 18.2px, 400),
+  control: (14px, 20px, 400),
+  caption: (12px, 18px, 400),
+  original-price: (11px, 15.4px, 400),
+);
+
+$spacing: (
+  4: 4px, 6: 6px, 8: 8px, 10: 10px, 12: 12px, 13: 13px, 14: 14px,
+  16: 16px, 17: 17px, 20: 20px, 21: 21px, 24: 24px, 32: 32px,
+  34: 34px, 40: 40px, 46: 46px, 48: 48px, 60: 60px, 80: 80px,
+);
+
+$desktop-width: 1920px;
+$inner-width: 1720px;
+$desktop-gutter: 100px;
+$account-inner-width: 1568px;
+$account-sidebar-width: 216px;
+$account-content-width: 1304px;
+$account-gap: 48px;
+$checkout-form-width: 1080px;
+$checkout-summary-width: 594px;
+$checkout-gap: 46px;
+$header-height: 92px;
+$home-notice-height: 40px;
+$footer-height: 420px;
+
+$control-height: 44px;
+$compact-button-height: 32px;
+$button-widths: 67px, 141px, 170px, 248px, 260px, 340px, 354px, 380px, 407px, 480px;
+$clothing-field-width: 619px;
+$stairs-field-width: 591px;
+$profile-field-width: 196px;
+$checkout-field-padding: 13px;
+$measurement-field-padding: 20px;
+$reason-dropdown-padding: 21px;
+$field-border-width: 1px;
+$control-radius: 0;
+$checkbox-size: 27px;
+$radio-size: 23px;
+$radio-indicator-size: 11px;
+$icon-size: 24px;
+$dropdown-chevron-stroke: 1.5px;
