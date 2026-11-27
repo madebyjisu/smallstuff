@@ -1,0 +1,122 @@
+@use '../../styles' as ds;
+
+.product-list-page {
+    width: calc(100% - 40px);
+    max-width: ds.$inner-width;
+    margin: 0 auto;
+
+    padding-top: 33px;
+    padding-bottom: 135px;
+
+    // 현재 페이지 경로
+    .breadcrumb {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px;
+
+        @include ds.text-style(body);
+        color: ds.$color-muted;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
+
+    // 카테고리 영역
+    .list-category {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+        // 대분류 공통 메뉴
+        .main-category,
+        .sub-category {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+
+            a {
+                text-decoration: none;
+                color: ds.$color-muted;
+
+                &:hover {
+                    color: ds.$color-action;
+                }
+
+                &.active {
+                    color: ds.$color-action;
+                    font-weight: 600;
+                }
+            }
+        }
+
+        // 대분류
+        .main-category {
+            gap: 40px;
+
+            @include ds.text-style(info);
+        }
+
+        // 소분류
+        .sub-category {
+            gap: 32px;
+            padding: 24px 0;
+
+            border-top: 1px solid ds.$color-field-border;
+            border-bottom: 1px solid ds.$color-field-border;
+
+            @include ds.text-style(body);
+        }
+    }
+
+    // 상품 리스트 영역
+    .list-content {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+
+        // 상품 개수 및 정렬
+        .list-toolbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .product-count {
+                @include ds.text-style(body);
+                color: ds.$color-muted;
+
+                strong {
+                    color: ds.$color-action;
+                    font-weight: 600;
+                }
+            }
+        }
+
+        // 상품 카드 4열 배치
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+
+            column-gap: 24px;
+            row-gap: 60px;
+        }
+
+        // 상품이 없는 경우
+        .empty-products {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            min-height: 350px;
+
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+}

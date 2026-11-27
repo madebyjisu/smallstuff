@@ -129,14 +129,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            17,
+            17
+          ],
+          "totalHeightCm": 34,
+          "widthCm": 40.5,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/2827c09c41ef6.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -254,14 +257,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            17,
+            17
+          ],
+          "totalHeightCm": 34,
+          "widthCm": 40.5,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/122cdb3c7e56b.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -379,14 +385,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            17,
+            17
+          ],
+          "totalHeightCm": 34,
+          "widthCm": 40.5,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/5d535b267c8f8.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -3188,14 +3197,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/184be9f2366e2.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -3333,14 +3345,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/17f8f29ab295d.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -3478,14 +3493,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/625dfbcb5b725.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -3680,14 +3698,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/034cf36c56f89.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -3867,14 +3885,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/c9ff3449b7d70.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -4054,14 +4072,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/dc542ff13acfa.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -4221,14 +4239,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/73f3e25f86654.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -4368,14 +4386,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/83a01fbc22087.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -4509,14 +4527,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/73f3e25f86654.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -4651,14 +4669,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/c57358ba7b64c.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -4792,14 +4810,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 42,
+          "depthCm": 47
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/629740085685f.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -4950,14 +4968,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/a569b2341b1e8.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5088,14 +5109,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/b1c6daedd335d.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5180,14 +5204,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/a537cfbb0f5f4.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5318,14 +5345,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/6e0e1e9505a86.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5456,14 +5486,17 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
-          "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "stepCount": 2,
+          "stepHeightsCm": [
+            18,
+            17
+          ],
+          "totalHeightCm": 35,
+          "widthCm": 58,
+          "depthCm": 49
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/b2dcbd75f6a55.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -5625,12 +5658,12 @@
         "stairs": {
           "stepCount": 3,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 45,
+          "widthCm": 40,
+          "depthCm": 69
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": "https://smallstuff.kr/Furniture/?idx=51",
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/ccc76577a69c7.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5777,12 +5810,12 @@
         "stairs": {
           "stepCount": 3,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 45,
+          "widthCm": 40,
+          "depthCm": 69
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": "https://smallstuff.kr/Furniture/?idx=50",
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/1249ee0086671.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -5924,12 +5957,12 @@
         "stairs": {
           "stepCount": 3,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 45,
+          "widthCm": 40,
+          "depthCm": 69
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": "https://smallstuff.kr/Furniture/?idx=49",
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/65cba2251e03f.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -6071,12 +6104,12 @@
         "stairs": {
           "stepCount": 3,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 45,
+          "widthCm": 40,
+          "depthCm": 69
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": "https://smallstuff.kr/Furniture/?idx=52",
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/d803206a20c1f.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -6271,14 +6304,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/5611c2f8fdfa6.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -6459,14 +6492,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/5611c2f8fdfa6.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "96"
         ]
@@ -6649,14 +6682,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/0db7467648b57.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -6837,14 +6870,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/e3f6cd7d89742.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -7025,14 +7058,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/956c8e0c88b87.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -7213,14 +7246,14 @@
           }
         ],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/da9cb60024e59.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -8501,14 +8534,14 @@
         "sizeOptions": null,
         "otherOptionGroups": [],
         "stairs": {
-          "stepCount": null,
+          "stepCount": 2,
           "stepHeightsCm": null,
-          "totalHeightCm": null,
-          "widthCm": null,
-          "depthCm": null
+          "totalHeightCm": 34,
+          "widthCm": 40,
+          "depthCm": 50
         },
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/2586a3dec8f95.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "53"
         ]
@@ -11802,7 +11835,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": null,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -11810,7 +11847,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 35,
+              "chest": null,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -11818,7 +11859,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 39,
+              "chest": null,
+              "backLength": 29.5
+            }
           },
           {
             "id": "4",
@@ -11826,7 +11871,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": null,
+              "backLength": 34.5
+            }
           },
           {
             "id": "5",
@@ -11834,7 +11883,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 49,
+              "chest": null,
+              "backLength": 39
+            }
           },
           {
             "id": "6",
@@ -11842,13 +11895,17 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 55,
+              "chest": null,
+              "backLength": 44.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/24635ed1bcb1f.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "323",
           "322"
@@ -11971,7 +12028,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": null,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -11979,7 +12040,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 35,
+              "chest": null,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -11987,7 +12052,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 39,
+              "chest": null,
+              "backLength": 29.5
+            }
           },
           {
             "id": "4",
@@ -11995,7 +12064,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": null,
+              "backLength": 34.5
+            }
           },
           {
             "id": "5",
@@ -12003,7 +12076,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 49,
+              "chest": null,
+              "backLength": 39
+            }
           },
           {
             "id": "6",
@@ -12011,13 +12088,17 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 55,
+              "chest": null,
+              "backLength": 44.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/24635ed1bcb1f.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "321",
           "322"
@@ -12140,7 +12221,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": null,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -12148,7 +12233,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 35,
+              "chest": null,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -12156,7 +12245,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 39,
+              "chest": null,
+              "backLength": 29.5
+            }
           },
           {
             "id": "4",
@@ -12164,7 +12257,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": null,
+              "backLength": 34.5
+            }
           },
           {
             "id": "5",
@@ -12172,7 +12269,11 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 49,
+              "chest": null,
+              "backLength": 39
+            }
           },
           {
             "id": "6",
@@ -12180,13 +12281,17 @@
             "price": 62300,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 55,
+              "chest": null,
+              "backLength": 44.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/24635ed1bcb1f.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "321",
           "323"
@@ -12294,7 +12399,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 25,
+              "backLength": 21
+            }
           },
           {
             "id": "1",
@@ -12302,7 +12411,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 30,
+              "backLength": 24
+            }
           },
           {
             "id": "2",
@@ -12310,7 +12423,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 35,
+              "backLength": 27
+            }
           },
           {
             "id": "3",
@@ -12318,7 +12435,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -12326,7 +12447,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 47,
+              "backLength": 33
+            }
           },
           {
             "id": "5",
@@ -12334,13 +12459,17 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 53,
+              "backLength": 36
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/e55d47859c0e2.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "397"
         ]
@@ -12433,7 +12562,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 25,
+              "backLength": 21
+            }
           },
           {
             "id": "1",
@@ -12441,7 +12574,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 30,
+              "backLength": 24
+            }
           },
           {
             "id": "2",
@@ -12449,7 +12586,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 35,
+              "backLength": 27
+            }
           },
           {
             "id": "3",
@@ -12457,7 +12598,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -12465,7 +12610,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 47,
+              "backLength": 33
+            }
           },
           {
             "id": "5",
@@ -12473,13 +12622,17 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 53,
+              "backLength": 36
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/8923dcbcad374.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -12565,7 +12718,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 25,
+              "backLength": 21
+            }
           },
           {
             "id": "1",
@@ -12573,7 +12730,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 30,
+              "backLength": 24
+            }
           },
           {
             "id": "2",
@@ -12581,7 +12742,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 35,
+              "backLength": 27
+            }
           },
           {
             "id": "3",
@@ -12589,7 +12754,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -12597,7 +12766,11 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 47,
+              "backLength": 33
+            }
           },
           {
             "id": "5",
@@ -12605,13 +12778,17 @@
             "price": 38000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 53,
+              "backLength": 36
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/3eb4ae3647a80.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -12711,7 +12888,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 25,
+              "backLength": 21
+            }
           },
           {
             "id": "1",
@@ -12719,7 +12900,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 30,
+              "backLength": 24
+            }
           },
           {
             "id": "2",
@@ -12727,7 +12912,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 35,
+              "backLength": 27
+            }
           },
           {
             "id": "3",
@@ -12735,7 +12924,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -12743,7 +12936,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 47,
+              "backLength": 33
+            }
           },
           {
             "id": "5",
@@ -12751,13 +12948,17 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 53,
+              "backLength": 36
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/58753c48172a5.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "396"
         ]
@@ -12845,7 +13046,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 25,
+              "backLength": 21
+            }
           },
           {
             "id": "1",
@@ -12853,7 +13058,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 30,
+              "backLength": 24
+            }
           },
           {
             "id": "2",
@@ -12861,7 +13070,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 35,
+              "backLength": 27
+            }
           },
           {
             "id": "3",
@@ -12869,7 +13082,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -12877,7 +13094,11 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 47,
+              "backLength": 33
+            }
           },
           {
             "id": "5",
@@ -12885,13 +13106,17 @@
             "price": 36000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 53,
+              "backLength": 36
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/f8b0c5f0ccfe5.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -13003,7 +13228,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 22
+            }
           },
           {
             "id": "1",
@@ -13011,7 +13240,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 25
+            }
           },
           {
             "id": "2",
@@ -13019,7 +13252,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 42,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -13027,7 +13264,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 46,
+              "backLength": 31
+            }
           },
           {
             "id": "4",
@@ -13035,7 +13276,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 51,
+              "backLength": 34
+            }
           },
           {
             "id": "5",
@@ -13043,13 +13288,17 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 56,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/8841aa40fbb26.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "154"
         ]
@@ -13149,7 +13398,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 22
+            }
           },
           {
             "id": "1",
@@ -13157,7 +13410,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 25
+            }
           },
           {
             "id": "2",
@@ -13165,7 +13422,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 42,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -13173,7 +13434,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 46,
+              "backLength": 31
+            }
           },
           {
             "id": "4",
@@ -13181,7 +13446,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 51,
+              "backLength": 34
+            }
           },
           {
             "id": "5",
@@ -13189,13 +13458,17 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 56,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/f781187346749.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -13288,7 +13561,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 22
+            }
           },
           {
             "id": "1",
@@ -13296,7 +13573,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 25
+            }
           },
           {
             "id": "2",
@@ -13304,7 +13585,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 42,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -13312,7 +13597,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 46,
+              "backLength": 31
+            }
           },
           {
             "id": "4",
@@ -13320,7 +13609,11 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 51,
+              "backLength": 34
+            }
           },
           {
             "id": "5",
@@ -13328,13 +13621,17 @@
             "price": 52000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 56,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/489438fc5f8a1.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -13454,7 +13751,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28,
+              "chest": 40,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -13462,7 +13763,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 44,
+              "backLength": 29
+            }
           },
           {
             "id": "3",
@@ -13470,7 +13775,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34,
+              "chest": 48,
+              "backLength": 32
+            }
           },
           {
             "id": "4",
@@ -13478,7 +13787,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 37,
+              "chest": 52,
+              "backLength": 35
+            }
           },
           {
             "id": "5",
@@ -13486,13 +13799,17 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/dfc4f94ec4a27.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "386",
           "385"
@@ -13620,7 +13937,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28,
+              "chest": 40,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -13628,7 +13949,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 44,
+              "backLength": 29
+            }
           },
           {
             "id": "3",
@@ -13636,7 +13961,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34,
+              "chest": 48,
+              "backLength": 32
+            }
           },
           {
             "id": "4",
@@ -13644,7 +13973,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 37,
+              "chest": 52,
+              "backLength": 35
+            }
           },
           {
             "id": "5",
@@ -13652,13 +13985,17 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/123964cef9048.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "387",
           "385"
@@ -13781,7 +14118,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28,
+              "chest": 40,
+              "backLength": 26.5
+            }
           },
           {
             "id": "2",
@@ -13789,7 +14130,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 44,
+              "backLength": 29
+            }
           },
           {
             "id": "3",
@@ -13797,7 +14142,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34,
+              "chest": 48,
+              "backLength": 32
+            }
           },
           {
             "id": "4",
@@ -13805,7 +14154,11 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 37,
+              "chest": 52,
+              "backLength": 35
+            }
           },
           {
             "id": "5",
@@ -13813,13 +14166,17 @@
             "price": 120000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/d6507572b34c1.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "387",
           "386"
@@ -13949,7 +14306,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25,
+              "chest": 33,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -13957,7 +14318,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 38,
+              "backLength": 22.5
+            }
           },
           {
             "id": "2",
@@ -13965,7 +14330,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "3",
@@ -13973,7 +14342,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 46,
+              "backLength": 28.5
+            }
           },
           {
             "id": "4",
@@ -13981,7 +14354,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 51,
+              "backLength": 32
+            }
           },
           {
             "id": "5",
@@ -13989,13 +14366,17 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 42,
+              "chest": 58,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/92a9a650c709e.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "144"
         ]
@@ -14093,7 +14474,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25,
+              "chest": 33,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -14101,7 +14486,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 38,
+              "backLength": 22.5
+            }
           },
           {
             "id": "2",
@@ -14109,7 +14498,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "3",
@@ -14117,7 +14510,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 46,
+              "backLength": 28.5
+            }
           },
           {
             "id": "4",
@@ -14125,7 +14522,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 51,
+              "backLength": 32
+            }
           },
           {
             "id": "5",
@@ -14133,13 +14534,17 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 42,
+              "chest": 58,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/92a9a650c709e.jpg?w=1920",
         "possibleRelatedSourceIds": []
       },
       {
@@ -14240,7 +14645,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25,
+              "chest": 33,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -14248,7 +14657,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 38,
+              "backLength": 22.5
+            }
           },
           {
             "id": "2",
@@ -14256,7 +14669,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "3",
@@ -14264,7 +14681,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 46,
+              "backLength": 28.5
+            }
           },
           {
             "id": "4",
@@ -14272,7 +14693,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 51,
+              "backLength": 32
+            }
           },
           {
             "id": "5",
@@ -14280,13 +14705,17 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 42,
+              "chest": 58,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/92a9a650c709e.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -14399,11 +14828,96 @@
         "care": null,
         "shippingPolicyUrl": "https://smallstuff.kr/Notice/?bmode=view&idx=167160251",
         "detailVerification": "partially-verified",
-        "sizeOptions": null,
+        "sizeOptions": [
+          {
+            "id": "0",
+            "label": "0 / S",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 20,
+              "chest": 28,
+              "backLength": 17
+            }
+          },
+          {
+            "id": "1",
+            "label": "1 / SM",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 20
+            }
+          },
+          {
+            "id": "2",
+            "label": "2 / M",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 23
+            }
+          },
+          {
+            "id": "3",
+            "label": "3 / L",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
+          },
+          {
+            "id": "4",
+            "label": "4 / XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 47,
+              "backLength": 29
+            }
+          },
+          {
+            "id": "5",
+            "label": "5 / 2XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 35,
+              "chest": 53,
+              "backLength": 32
+            }
+          },
+          {
+            "id": "6",
+            "label": "6 / 3XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 38,
+              "chest": 55,
+              "backLength": 35
+            }
+          }
+        ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/0a45cac311456.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "143",
           "141"
@@ -14511,7 +15025,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 20,
+              "chest": 28,
+              "backLength": 17
+            }
           },
           {
             "id": "1",
@@ -14519,7 +15037,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 20
+            }
           },
           {
             "id": "2",
@@ -14527,7 +15049,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 23
+            }
           },
           {
             "id": "3",
@@ -14535,7 +15061,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "4",
@@ -14543,7 +15073,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 47,
+              "backLength": 29
+            }
           },
           {
             "id": "5",
@@ -14551,7 +15085,11 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 35,
+              "chest": 53,
+              "backLength": 32
+            }
           },
           {
             "id": "6",
@@ -14559,13 +15097,17 @@
             "price": 19600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 38,
+              "chest": 55,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/0a45cac311456.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "142",
           "141"
@@ -14666,11 +15208,96 @@
         "care": null,
         "shippingPolicyUrl": "https://smallstuff.kr/Notice/?bmode=view&idx=167160251",
         "detailVerification": "partially-verified",
-        "sizeOptions": null,
+        "sizeOptions": [
+          {
+            "id": "0",
+            "label": "0 / S",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 20,
+              "chest": 28,
+              "backLength": 17
+            }
+          },
+          {
+            "id": "1",
+            "label": "1 / SM",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 20
+            }
+          },
+          {
+            "id": "2",
+            "label": "2 / M",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 23
+            }
+          },
+          {
+            "id": "3",
+            "label": "3 / L",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
+          },
+          {
+            "id": "4",
+            "label": "4 / XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 47,
+              "backLength": 29
+            }
+          },
+          {
+            "id": "5",
+            "label": "5 / 2XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 35,
+              "chest": 53,
+              "backLength": 32
+            }
+          },
+          {
+            "id": "6",
+            "label": "6 / 3XL",
+            "price": null,
+            "additionalPrice": null,
+            "soldOut": null,
+            "measurementsCm": {
+              "neck": 38,
+              "chest": 55,
+              "backLength": 35
+            }
+          }
+        ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/0a45cac311456.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "142",
           "143"
@@ -16159,7 +16786,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 32,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -16167,7 +16798,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.5,
+              "chest": 35,
+              "backLength": 22
+            }
           },
           {
             "id": "2",
@@ -16175,7 +16810,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28.5,
+              "chest": 39.5,
+              "backLength": 25
+            }
           },
           {
             "id": "3",
@@ -16183,7 +16822,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 46,
+              "backLength": 27.5
+            }
           },
           {
             "id": "4",
@@ -16191,7 +16834,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36.5,
+              "chest": 51,
+              "backLength": 30.5
+            }
           },
           {
             "id": "5",
@@ -16199,13 +16846,17 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 33
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/3f35a3f1e637a.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "160"
         ]
@@ -16313,7 +16964,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 32,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -16321,7 +16976,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.5,
+              "chest": 35,
+              "backLength": 22
+            }
           },
           {
             "id": "2",
@@ -16329,7 +16988,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28.5,
+              "chest": 39.5,
+              "backLength": 25
+            }
           },
           {
             "id": "3",
@@ -16337,7 +17000,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 46,
+              "backLength": 27.5
+            }
           },
           {
             "id": "4",
@@ -16345,7 +17012,11 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36.5,
+              "chest": 51,
+              "backLength": 30.5
+            }
           },
           {
             "id": "5",
@@ -16353,13 +17024,17 @@
             "price": 35200,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 33
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/3f35a3f1e637a.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "159"
         ]
@@ -16471,7 +17146,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 32,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -16479,7 +17158,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.5,
+              "chest": 35,
+              "backLength": 22
+            }
           },
           {
             "id": "2",
@@ -16487,7 +17170,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28.5,
+              "chest": 39.5,
+              "backLength": 25
+            }
           },
           {
             "id": "3",
@@ -16495,7 +17182,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 46,
+              "backLength": 27.5
+            }
           },
           {
             "id": "4",
@@ -16503,7 +17194,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36.5,
+              "chest": 51,
+              "backLength": 30.5
+            }
           },
           {
             "id": "5",
@@ -16511,7 +17206,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 33
+            }
           },
           {
             "id": "6",
@@ -16519,13 +17218,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": 64,
+              "backLength": 40
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/2f7b4742370ec.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "292"
         ]
@@ -16627,7 +17330,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 32,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -16635,7 +17342,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.5,
+              "chest": 35,
+              "backLength": 22
+            }
           },
           {
             "id": "2",
@@ -16643,7 +17354,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28.5,
+              "chest": 39.5,
+              "backLength": 25
+            }
           },
           {
             "id": "3",
@@ -16651,7 +17366,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 46,
+              "backLength": 27.5
+            }
           },
           {
             "id": "4",
@@ -16659,7 +17378,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36.5,
+              "chest": 51,
+              "backLength": 30.5
+            }
           },
           {
             "id": "5",
@@ -16667,7 +17390,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 58,
+              "backLength": 33
+            }
           },
           {
             "id": "6",
@@ -16675,13 +17402,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": 64,
+              "backLength": 40
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/d6a8381fcfe61.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "293"
         ]
@@ -16783,7 +17514,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 36,
+              "backLength": 18
+            }
           },
           {
             "id": "2",
@@ -16791,7 +17526,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28,
+              "chest": 40,
+              "backLength": 22.5
+            }
           },
           {
             "id": "3",
@@ -16799,7 +17538,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": 47,
+              "backLength": 26
+            }
           },
           {
             "id": "4",
@@ -16807,7 +17550,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 54,
+              "backLength": 29
+            }
           },
           {
             "id": "5",
@@ -16815,13 +17562,17 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 38,
+              "chest": 58,
+              "backLength": 30.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/de8b89092445b.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "185"
         ]
@@ -16943,7 +17694,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25,
+              "chest": 33,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -16951,7 +17706,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 38,
+              "backLength": 22.5
+            }
           },
           {
             "id": "2",
@@ -16959,7 +17718,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "3",
@@ -16967,7 +17730,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 46,
+              "backLength": 28.5
+            }
           },
           {
             "id": "4",
@@ -16975,7 +17742,11 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 51,
+              "backLength": 32
+            }
           },
           {
             "id": "5",
@@ -16983,13 +17754,17 @@
             "price": 49600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 42,
+              "chest": 58,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/0463ae8475718.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "350"
         ]
@@ -17076,7 +17851,11 @@
             "price": 38500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34,
+              "chest": 41,
+              "backLength": 30
+            }
           },
           {
             "id": "2",
@@ -17084,7 +17863,11 @@
             "price": 38500,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 51,
+              "backLength": 34
+            }
           },
           {
             "id": "3",
@@ -17092,13 +17875,17 @@
             "price": 38500,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 48,
+              "chest": 61,
+              "backLength": 36.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/eee64da16cbfa.jpg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -17226,7 +18013,11 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 23,
+              "chest": 32,
+              "backLength": 22
+            }
           },
           {
             "id": "1",
@@ -17234,7 +18025,11 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 37,
+              "backLength": 25
+            }
           },
           {
             "id": "2",
@@ -17242,7 +18037,11 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 42,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -17250,7 +18049,11 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 46,
+              "backLength": 31
+            }
           },
           {
             "id": "4",
@@ -17258,7 +18061,11 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32,
+              "chest": 51,
+              "backLength": 34
+            }
           },
           {
             "id": "5",
@@ -17266,13 +18073,17 @@
             "price": 28800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 56,
+              "backLength": 38
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/dbd0f59bf31f1.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "391"
         ]
@@ -17395,7 +18206,11 @@
             "price": 23200,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 32,
+              "backLength": 20.5
+            }
           },
           {
             "id": "2",
@@ -17403,7 +18218,11 @@
             "price": 23200,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 37,
+              "backLength": 23.5
+            }
           },
           {
             "id": "3",
@@ -17411,7 +18230,11 @@
             "price": 23200,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.5,
+              "chest": 43,
+              "backLength": 26
+            }
           },
           {
             "id": "4",
@@ -17419,7 +18242,11 @@
             "price": 23200,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 32.5,
+              "chest": 49,
+              "backLength": 29
+            }
           },
           {
             "id": "5",
@@ -17427,13 +18254,17 @@
             "price": 23200,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 55,
+              "backLength": 32.5
+            }
           }
         ],
         "otherOptionGroups": [],
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/ca4fe6bdf1282.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "180"
         ]
@@ -17571,7 +18402,11 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25,
+              "chest": 33,
+              "backLength": 18
+            }
           },
           {
             "id": "1",
@@ -17579,7 +18414,11 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 27,
+              "chest": 38,
+              "backLength": 22.5
+            }
           },
           {
             "id": "2",
@@ -17587,7 +18426,11 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 29,
+              "chest": 41,
+              "backLength": 26
+            }
           },
           {
             "id": "3",
@@ -17595,7 +18438,11 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 46,
+              "backLength": 28.5
+            }
           },
           {
             "id": "4",
@@ -17603,7 +18450,11 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 36,
+              "chest": 51,
+              "backLength": 32
+            }
           },
           {
             "id": "5",
@@ -17611,13 +18462,17 @@
             "price": 31500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 42,
+              "chest": 58,
+              "backLength": 35
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/8b5fb9e9f658a.jpeg?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]
@@ -17718,7 +18573,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 24,
+              "chest": 36,
+              "backLength": 18
+            }
           },
           {
             "id": "2",
@@ -17726,7 +18585,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 28,
+              "chest": 40,
+              "backLength": 22.5
+            }
           },
           {
             "id": "3",
@@ -17734,7 +18597,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": 47,
+              "backLength": 26
+            }
           },
           {
             "id": "4",
@@ -17742,7 +18609,11 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 33,
+              "chest": 54,
+              "backLength": 29
+            }
           },
           {
             "id": "5",
@@ -17750,13 +18621,17 @@
             "price": 39500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 38,
+              "chest": 58,
+              "backLength": 30.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/3aa7b1ad56a70.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "186"
         ]
@@ -18119,7 +18994,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -18127,7 +19006,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -18135,7 +19018,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -18143,7 +19030,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -18151,13 +19042,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/838618940d883.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "333",
           "332",
@@ -18271,7 +19166,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -18279,7 +19178,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -18287,7 +19190,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -18295,7 +19202,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -18303,13 +19214,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/673057d1c8e6a.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "331",
           "332",
@@ -18423,7 +19338,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -18431,7 +19350,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -18439,7 +19362,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -18447,7 +19374,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -18455,13 +19386,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/673057d1c8e6a.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "331",
           "333",
@@ -18682,7 +19617,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -18690,7 +19629,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -18698,7 +19641,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -18706,7 +19653,11 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -18714,13 +19665,17 @@
             "price": 29400,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/2578435f71204.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "331",
           "333",
@@ -19037,7 +19992,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19045,7 +20004,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19053,7 +20016,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19061,7 +20028,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19069,13 +20040,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/31a61532e1983.png?w=1920",
         "possibleRelatedSourceIds": [
           "126",
           "127",
@@ -19189,7 +20164,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19197,7 +20176,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19205,7 +20188,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19213,7 +20200,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19221,13 +20212,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/582aea329b489.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "127",
@@ -19341,7 +20336,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19349,7 +20348,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19357,7 +20360,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19365,7 +20372,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19373,13 +20384,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/19f4e6210a514.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -19498,7 +20513,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19506,7 +20525,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19514,7 +20537,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19522,7 +20549,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19530,13 +20561,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/7504ccf439103.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -19655,7 +20690,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19663,7 +20702,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19671,7 +20714,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19679,7 +20726,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19687,13 +20738,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/020045b4b7500.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -19812,7 +20867,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19820,7 +20879,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19828,7 +20891,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19836,7 +20903,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -19844,13 +20915,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/a547f802883b7.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -19969,7 +21044,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -19977,7 +21056,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -19985,7 +21068,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -19993,7 +21080,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20001,13 +21092,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/a961bf525aa91.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -20126,7 +21221,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -20134,7 +21233,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -20142,7 +21245,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -20150,7 +21257,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20158,13 +21269,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/002fbf36c49ae.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -20283,7 +21398,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -20291,7 +21410,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -20299,7 +21422,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 11.5
+            }
           },
           {
             "id": "3",
@@ -20307,7 +21434,11 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20315,13 +21446,17 @@
             "price": 33000,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14.5
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/765efdb6b4ed0.png?w=1920",
         "possibleRelatedSourceIds": [
           "34",
           "126",
@@ -20451,7 +21586,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -20459,7 +21598,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -20467,7 +21610,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 12
+            }
           },
           {
             "id": "3",
@@ -20475,7 +21622,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20483,13 +21634,17 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/b8dce3167ec50.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "95",
           "118"
@@ -20593,7 +21748,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -20601,7 +21760,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -20609,7 +21772,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 12
+            }
           },
           {
             "id": "3",
@@ -20617,7 +21784,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20625,13 +21796,17 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/45c7cf5aae65f.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "97",
           "118"
@@ -20740,7 +21915,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 18.5,
+              "chest": 31,
+              "backLength": 9.5
+            }
           },
           {
             "id": "1",
@@ -20748,7 +21927,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 22,
+              "chest": 35,
+              "backLength": 10.5
+            }
           },
           {
             "id": "2",
@@ -20756,7 +21939,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26.5,
+              "chest": 40,
+              "backLength": 12
+            }
           },
           {
             "id": "3",
@@ -20764,7 +21951,11 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 31,
+              "chest": 45,
+              "backLength": 13.5
+            }
           },
           {
             "id": "4",
@@ -20772,13 +21963,17 @@
             "price": 22500,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.5,
+              "chest": 50,
+              "backLength": 14
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/d951cc89d3cf7.jpg?w=1920",
         "possibleRelatedSourceIds": [
           "97",
           "95"
@@ -22917,7 +24112,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.8,
+              "chest": 35,
+              "backLength": 23
+            }
           },
           {
             "id": "1",
@@ -22925,7 +24124,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.8,
+              "chest": 39,
+              "backLength": 26
+            }
           },
           {
             "id": "2",
@@ -22933,7 +24136,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.8,
+              "chest": 47,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -22941,7 +24148,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 39.8,
+              "chest": 52,
+              "backLength": 33
+            }
           },
           {
             "id": "4",
@@ -22949,7 +24160,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 44.7,
+              "chest": 57,
+              "backLength": 37
+            }
           },
           {
             "id": "5",
@@ -22957,13 +24172,17 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 49.5,
+              "chest": 63,
+              "backLength": 43
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/e38af48c44fe1.png?w=1920",
         "possibleRelatedSourceIds": [
           "173"
         ]
@@ -23071,7 +24290,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 25.8,
+              "chest": 35,
+              "backLength": 23
+            }
           },
           {
             "id": "1",
@@ -23079,7 +24302,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30.8,
+              "chest": 39,
+              "backLength": 26
+            }
           },
           {
             "id": "2",
@@ -23087,7 +24314,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 34.8,
+              "chest": 47,
+              "backLength": 28
+            }
           },
           {
             "id": "3",
@@ -23095,7 +24326,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 39.8,
+              "chest": 52,
+              "backLength": 33
+            }
           },
           {
             "id": "4",
@@ -23103,7 +24338,11 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 44.7,
+              "chest": 57,
+              "backLength": 37
+            }
           },
           {
             "id": "5",
@@ -23111,13 +24350,17 @@
             "price": 31600,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 49.5,
+              "chest": 63,
+              "backLength": 43
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/355fada48d5e5.png?w=1920",
         "possibleRelatedSourceIds": [
           "172"
         ]
@@ -23225,7 +24468,11 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 21,
+              "chest": 31.5,
+              "backLength": 20
+            }
           },
           {
             "id": "1",
@@ -23233,7 +24480,11 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 26,
+              "chest": 35.5,
+              "backLength": 23
+            }
           },
           {
             "id": "2",
@@ -23241,7 +24492,11 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 30,
+              "chest": 43.5,
+              "backLength": 25
+            }
           },
           {
             "id": "3",
@@ -23249,7 +24504,11 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 35,
+              "chest": 48.5,
+              "backLength": 30
+            }
           },
           {
             "id": "4",
@@ -23257,7 +24516,11 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": true,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 40,
+              "chest": 53.5,
+              "backLength": 34
+            }
           },
           {
             "id": "5",
@@ -23265,13 +24528,17 @@
             "price": 12800,
             "additionalPrice": 0,
             "soldOut": false,
-            "measurementsCm": null
+            "measurementsCm": {
+              "neck": 45,
+              "chest": 59.5,
+              "backLength": 40
+            }
           }
         ],
         "otherOptionGroups": null,
         "stairs": null,
         "observedOn": "2026-11-26",
-        "measurementSourceUrl": null,
+        "measurementSourceUrl": "https://cdn-optimized.imweb.me/upload/S2025070634dec93139060/b0f3f9e85d348.png?w=1920",
         "possibleRelatedSourceIds": []
       }
     ]

@@ -106,8 +106,9 @@
     // 공통 메뉴 스타일
     .gnb,
     .header-right {
-        > a,
-        > .menu-item > button {
+
+        >a,
+        >.menu-item>button {
             display: flex;
             align-items: center;
             gap: 8px;
@@ -157,6 +158,10 @@
             left: auto;
             right: 0;
             min-width: 70px;
+        }
+
+        .logout-button {
+            height: ds.$control-height;
         }
     }
 }

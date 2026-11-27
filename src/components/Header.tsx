@@ -1,12 +1,58 @@
-import { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { Link, useLocation, useNavigate, } from 'react-router-dom';
 import { paths, categoryPath } from '../router/paths';
+import { onAuthStateChanged, signOut, } from 'firebase/auth';
+
+import type { User } from 'firebase/auth';
+import { auth } from '../firebase/config';
+
 import { ICONS } from '../constants/icons';
 import categories from '../data/categories.json';
 import './scss/Header.scss';
 
 export const Header = () => {
     const location = useLocation();
+
+    const navigate = useNavigate();
+
+    // 현재 로그인한 사용자
+    const [user, setUser] = useState<User | null>(null);
+
+    // 로그인 상태 확인
+    const [authLoading, setAuthLoading] = useState(true);
+
+    // Firebase 로그인 상태 감지
+    useEffect(() => {
+
+        const unsubscribe = onAuthStateChanged(
+            auth,
+            (currentUser) => {
+
+                setUser(currentUser);
+                setAuthLoading(false);
+
+            }
+        );
+
+        return () => unsubscribe();
+
+    }, []);
+
+    // 로그아웃
+    const handleLogout = async () => {
+
+        try {
+
+            await signOut(auth);
+
+            navigate(paths.home);
+
+        } catch {
+
+            alert('로그아웃에 실패했습니다.');
+
+        }
+    };
 
     // 메인 페이지 여부 확인
     const isHome = location.pathname === paths.home;
@@ -160,9 +206,22 @@ export const Header = () => {
                             Search
                         </Link>
 
-                        <Link to={paths.login}>
-                            Login
-                        </Link>
+                        {/* 로그인 상태에 따른 메뉴 */}
+                        {!authLoading && (
+                            user ? (
+                                <button
+                                    type="button"
+                                    className="logout-button"
+                                    onClick={handleLogout}
+                                >
+                                    Logout
+                                </button>
+                            ) : (
+                                <Link to={paths.login}>
+                                    Login
+                                </Link>
+                            )
+                        )}
 
                         <Link to={paths.my}>
                             Mypage

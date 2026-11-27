@@ -1,0 +1,104 @@
+@use '../../styles' as ds;
+
+.auth-page {
+    width: calc(100% - 40px);
+    max-width: ds.$inner-width;
+
+    margin: 0 auto;
+    padding: 100px 0 135px;
+
+    display: flex;
+    justify-content: center;
+
+    min-height: 650px;
+
+    // 로그인 및 회원가입 공통 컨테이너
+    .auth-container {
+        width: 100%;
+        max-width: 480px;
+
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    // 입력 폼
+    .auth-form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    // 입력 필드
+    .auth-field {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        label {
+            @include ds.text-style(body);
+            color: ds.$color-text;
+        }
+    }
+
+    // 오류 메시지
+    .auth-error {
+        @include ds.text-style(body);
+        color: ds.$color-error-accent;
+    }
+
+    // 안내 메시지
+    .auth-message {
+        @include ds.text-style(body);
+        color: ds.$color-muted;
+    }
+
+    // 소셜 로그인
+    .social-login {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    // 구분선
+    .auth-divider {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+
+        @include ds.text-style(caption);
+        color: ds.$color-muted;
+
+        &::before,
+        &::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background-color: ds.$color-field-border;
+        }
+    }
+
+    // 하단 회원가입 및 비밀번호 찾기
+    .auth-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 16px;
+
+        @include ds.text-style(body);
+
+        a {
+            color: ds.$color-muted;
+            text-decoration: none;
+
+            &:hover {
+                color: ds.$color-action;
+                text-decoration: underline;
+            }
+        }
+
+        span {
+            color: ds.$color-field-border;
+        }
+    }
+}

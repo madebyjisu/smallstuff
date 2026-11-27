@@ -1,0 +1,197 @@
+@use '../../styles' as ds;
+
+.product-size-info {
+    width: 100%;
+    margin-top: 155px;
+
+    // 실측표 전체 영역
+    .size-info-content {
+        display: grid;
+        grid-template-columns:
+            minmax(0, 535fr) minmax(0, 1140fr);
+        gap: 45px;
+
+        margin-top: 22px;
+        align-items: start;
+    }
+
+    // 치수 측정 안내 이미지 영역
+    .measurement-guide {
+        width: 100%;
+        aspect-ratio: 535 / 400;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        background-color: ds.$color-disabled-surface;
+        border: 1px solid ds.$color-field-border;
+
+        p {
+            @include ds.text-style(detail-title);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 상품 실측표
+    .size-table-area {
+        min-width: 0;
+        padding-top: 28px;
+
+        h3 {
+            @include ds.text-style(detail-title-semibold);
+            margin-bottom: 27px;
+        }
+    }
+
+    // 표 영역이 넘칠 경우 가로 스크롤
+    .table-scroll {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    // 실측표 및 비교표 공통
+    .size-table,
+    .compare-table {
+        width: 100%;
+        border-collapse: collapse;
+
+        @include ds.text-style(body);
+
+        th,
+        td {
+            padding: 20px 12px;
+            text-align: center;
+            border-bottom: 1px solid ds.$color-field-border;
+        }
+
+        th {
+            font-weight: 600;
+        }
+
+        thead {
+            background-color: ds.$color-disabled-surface;
+        }
+    }
+
+    // 현재 선택된 상품 사이즈
+    .size-table {
+        .selected-size {
+            background-color: ds.$color-image-footer;
+            font-weight: 600;
+        }
+    }
+
+    .size-notice {
+        margin-top: 12px;
+        text-align: right;
+
+        @include ds.text-style(caption);
+        color: ds.$color-muted;
+    }
+
+    // 반려견 실측 비교 영역
+    .measurement-section {
+        margin-top: 76px;
+
+        .measurement-box {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+
+            margin-top: 22px;
+            padding: 40px 50px;
+
+            background-color: ds.$color-disabled-surface;
+        }
+    }
+
+    // 반려견 정보 및 수정 버튼
+    .measurement-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+
+        .measurement-summary {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+
+            @include ds.text-style(info);
+        }
+    }
+
+    // 반려견 치수 입력
+    .measurement-form {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 24px;
+    }
+
+    .measurement-fields {
+        width: 100%;
+
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 24px;
+    }
+
+    .measurement-field {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        label {
+            @include ds.text-style(body-semibold);
+        }
+    }
+
+    .measurement-input {
+        position: relative;
+
+        input {
+            padding-right: 48px;
+        }
+
+        >span {
+            position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+
+            color: ds.$color-muted;
+            pointer-events: none;
+        }
+    }
+
+    // 비교 결과 안내
+    .compare-notice {
+        @include ds.text-style(caption);
+        color: ds.$color-muted;
+        text-align: right;
+    }
+
+    // 추천 사이즈 안내
+    .size-recommendation {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        h3 {
+            @include ds.text-style(category-semibold);
+            color: ds.$color-action;
+        }
+
+        p {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+
+        .size-sold-out {
+            color: ds.$color-sale;
+        }
+    }
+}

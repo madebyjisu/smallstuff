@@ -10,6 +10,8 @@ import ProtectedRoute from './ProtectedRoute'
 import { paths } from './paths'
 import { HomePage } from '../pages/home/HomePage';
 
+import { LoginPage, SignupPage, FindAccountPage, } from '../pages/auth/AuthPages';
+
 const CategoryPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.CategoryPage })))
 const ProductPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.ProductPage })))
 
@@ -20,16 +22,16 @@ export default function AppRouter() {
         <Route element={<RootLayout />}>
           <Route index element={<HomePage />} />
           <Route path={paths.about} element={<PageTitle title="About us" />} />
-          <Route path={paths.shop} element={<PageTitle title="Shop" />} />
+          <Route path={paths.shop} element={<Suspense fallback={<p>Loading...</p>}><CategoryPage /></Suspense>} />
           <Route path={paths.category} element={<Suspense fallback={<p role="status">Loading category...</p>}><CategoryPage /></Suspense>} />
           <Route path={paths.product} element={<Suspense fallback={<p role="status">Loading product...</p>}><ProductPage /></Suspense>} />
           <Route path={paths.lookbook} element={<PageTitle title="Lookbook" />} />
           <Route path={paths.board} element={<PageTitle title="Board" />} />
           <Route path={paths.search} element={<PageTitle title="Search results" />} />
           <Route path={paths.fit} element={<PageTitle title="Find the right fit" />} />
-          <Route path={paths.login} element={<PageTitle title="Log in" />} />
-          <Route path={paths.signup} element={<PageTitle title="Sign up" />} />
-          <Route path={paths.findAccount} element={<PageTitle title="Find your account" />} />
+          <Route path={paths.login} element={<LoginPage />} />
+          <Route path={paths.signup} element={<SignupPage />} />
+          <Route path={paths.findAccount} element={<FindAccountPage />} />
           <Route path={paths.cart} element={<PageTitle title="Cart" />} />
           <Route path={paths.wishlist} element={<Navigate to={paths.myWishlist} replace />} />
           <Route element={<ProtectedRoute />}>
