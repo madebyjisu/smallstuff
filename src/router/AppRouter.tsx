@@ -12,6 +12,8 @@ import { HomePage } from '../pages/home/HomePage';
 
 import { LoginPage, SignupPage, FindAccountPage, } from '../pages/auth/AuthPages';
 
+import { MyPage } from '../pages/mypage/MyPage';
+
 const CategoryPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.CategoryPage })))
 const ProductPage = lazy(() => import('../pages/shop/ShopPages').then(module => ({ default: module.ProductPage })))
 
@@ -38,7 +40,7 @@ export default function AppRouter() {
             <Route path={paths.checkout} element={<PageTitle title="Checkout" />} />
             <Route path={paths.orderComplete} element={<PageTitle title="Order complete" />} />
             <Route path={paths.my} element={<MyPageLayout />}>
-              <Route index element={<PageTitle title="My page" />} />
+              <Route index element={<MyPage />} />
               <Route path={paths.pets} element={<PageTitle title="Pet profiles" />} />
               <Route path={paths.myWishlist} element={<PageTitle title="Wishlist" />} />
               <Route path={paths.addresses} element={<PageTitle title="Saved addresses" />} />

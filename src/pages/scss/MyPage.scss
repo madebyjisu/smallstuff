@@ -1,0 +1,292 @@
+@use '../../styles' as ds;
+
+.mypage-main {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+    width: 100%;
+
+    // 상단 프로필 영역
+    .mypage-profile {
+        background-color: ds.$color-surface;
+    }
+
+    // 회원 정보
+    .member-info {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        min-height: 96px;
+        padding: 0 24px;
+
+        border-bottom: 1px solid ds.$color-field-border;
+    }
+
+    .member-left {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+
+    // 회원 프로필 원형
+    .member-avatar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 40px;
+        height: 40px;
+        flex-shrink: 0;
+
+        border-radius: 50%;
+        background-color: ds.$color-disabled-surface;
+
+        @include ds.text-style(body);
+    }
+
+    .member-name {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+
+        h2 {
+            @include ds.text-style(detail-title);
+        }
+
+        p {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 회원 등급
+    .member-grade {
+        text-align: right;
+
+        p {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 반려견 정보 영역
+    .pet-info {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        padding: 24px;
+    }
+
+    .pet-info-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .pet-info-title {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+
+        h2 {
+            @include ds.text-style(detail-title-semibold);
+        }
+
+        p {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 반려견 입력 폼
+    .pet-form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    // 반려견 정보 6열 배치
+    .pet-fields {
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 16px;
+    }
+
+    .pet-field {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        min-width: 0;
+
+        label {
+            @include ds.text-style(body-semibold);
+        }
+    }
+
+    // 입력창 및 단위
+    .pet-input {
+        position: relative;
+
+        input {
+            width: 100%;
+            height: ds.$control-height;
+            min-width: 0;
+        }
+
+        input[type='number'] {
+            padding-right: 42px;
+            appearance: textfield;
+
+            &::-webkit-inner-spin-button,
+            &::-webkit-outer-spin-button {
+                appearance: none;
+                margin: 0;
+            }
+        }
+
+        .input-unit {
+            position: absolute;
+            top: 50%;
+            right: 16px;
+
+            transform: translateY(-50%);
+            pointer-events: none;
+
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 등록 후 출력되는 치수
+    .pet-value {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+
+        span {
+            @include ds.text-style(body);
+            color: ds.$color-muted;
+        }
+
+        strong {
+            @include ds.text-style(info-semibold);
+            color: ds.$color-action;
+            overflow-wrap: anywhere;
+        }
+
+        &:first-child strong {
+            @include ds.text-style(detail-title-semibold);
+        }
+    }
+
+    // 반려견 정보 버튼
+    .pet-actions {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 12px;
+    }
+
+    .pet-error {
+        @include ds.text-style(body);
+        color: ds.$color-error-accent;
+    }
+
+    // 주문 조회
+    .mypage-orders {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .order-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        h2 {
+            @include ds.text-style(detail-title);
+        }
+
+        span {
+            @include ds.text-style(caption);
+            color: ds.$color-muted;
+        }
+    }
+
+    // 주문 상태
+    .order-status {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+
+        background-color: ds.$color-surface;
+        padding: 16px 0;
+    }
+
+    .status-item {
+        position: relative;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+
+        span {
+            @include ds.text-style(caption);
+            color: ds.$color-muted;
+        }
+
+        strong {
+            @include ds.text-style(detail-title);
+        }
+
+        &:not(:last-child)::after {
+            content: '';
+
+            position: absolute;
+            top: 50%;
+            right: 0;
+
+            width: 1px;
+            height: 24px;
+
+            transform: translateY(-50%);
+            background-color: ds.$color-field-border;
+        }
+    }
+
+    // 주문 내역이 없는 경우
+    .empty-orders {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        min-height: 140px;
+
+        @include ds.text-style(body);
+        color: ds.$color-muted;
+    }
+
+    // 작은 해상도에서 입력창 줄바꿈
+    @media (max-width: 1279px) {
+        .pet-fields {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    @media (max-width: 767px) {
+        .pet-fields {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .pet-info-header {
+            flex-wrap: wrap;
+        }
+    }
+}

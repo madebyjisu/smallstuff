@@ -1,9 +1,23 @@
 @use '../../styles' as ds;
 
+// 마이페이지 전체 영역
+.mypage-shell {
+    width: 100%;
+
+    // 마이페이지 메인 배경
+    &--main {
+        background-color: ds.$color-subtle-surface;
+    }
+}
+
 .mypage-layout {
     display: flex;
     align-items: flex-start;
     gap: ds.$account-gap;
+
+    width: calc(100% - 40px);
+    max-width: ds.$account-inner-width;
+    margin: 0 auto;
 
     min-height: 748px;
     padding-top: 80px;
